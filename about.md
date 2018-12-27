@@ -1,15 +1,14 @@
 ---
-layout: page
-title: About
+layout: about
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I am Devang. I love working on data driving technologies - streaming, ETL-ing and storing. Being an open source evangelist, I am passionate about working in teams to built great software products.
 
-### More Information
+In my free time, I play tennis and blog about things that I keep exploring!
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently, I am working at LinkedIn.
 
-### Contact me
-
+### Find Me At
 [email@domain.com](mailto:email@domain.com)
