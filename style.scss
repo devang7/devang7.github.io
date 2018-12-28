@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -151,7 +151,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .masthead {
@@ -272,7 +272,8 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
+  height: 80px;
+  margin-top: 20px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
@@ -281,6 +282,10 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.wrapper {
+  min-height: calc(100vh - 80px);
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
