@@ -17,6 +17,6 @@ Currently, I am working at LinkedIn.
 ### You Can Find Me At
 * [LinkedIn](https://www.linkedin.com/in/devang-j/)
 
-* [Email](mailto:email@domain.com)
+* [Email](mailto:djhaveri7@gmail.com)
 
 * [Github](https://github.com/devang7)
